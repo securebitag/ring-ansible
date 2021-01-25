@@ -253,6 +253,14 @@ lg_peers:
     asn: 59715
     ipv4: 185.5.200.255
     ipv6: 2A02:CDC5:9715:0:185:5:200:255
+  SECUREBIT_ZUR01:
+    asn: 58057
+    ipv4: 94.177.122.251
+    ipv6: 2a09:4c0:100:5eb1::7afb
+  SECUREBIT_ZUR02:
+    asn: 58057
+    ipv4: 94.177.122.252
+    ipv6: 2a09:4c0:100:5eb1::7afc
   SIDN1:
     asn: 1140
     ipv4: 193.176.144.93
@@ -433,14 +441,6 @@ lg_peers:
     asn: 41051
     ipv4: 82.197.169.75
     ipv6: 2001:67c:2648:82::75
-  SECUREBIT_ZUR01:
-    asn: 58057
-    ipv4: 94.177.122.251
-    ipv6: 2a09:4c0:0:8b1c::63fb
-  SECUREBIT_ZUR02:
-    asn: 58057
-    ipv4: 94.177.122.252
-    ipv6: 2a09:4c0:0:8b1c::63fc
   IPFAIL_SJC:
     asn: 62538
     ipv4: 216.218.217.61
